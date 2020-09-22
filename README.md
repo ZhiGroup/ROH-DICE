@@ -3,7 +3,7 @@
 
 
 
-##Usage:
+## Usage:
 python ROH-DICE.py [-h] [-i INPUT] [-o OUTPUT] [-w MIN_SAMPLES]
                    [-l MIN_LENGTH] [-L]
 
