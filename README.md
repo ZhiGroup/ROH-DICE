@@ -7,7 +7,7 @@
 python ROH-DICE.py [-h] [-i INPUT] [-o OUTPUT] [-w MIN_SAMPLES]
                    [-l MIN_LENGTH] [-L]
 
-<p>
+<pre>
 optional arguments:
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
@@ -21,4 +21,5 @@ optional arguments:
   -L, --max_length      Maximize the number of sites in each cluster (by
                         default samples are maximized).
 
-</p>
+
+</pre>
