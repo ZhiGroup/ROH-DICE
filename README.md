@@ -1,6 +1,6 @@
 # ROH-DICE
 
-ROH-DICE (Runs of homozygous diplotype cluster enumerator) searches for clusters of ROH regions given a genotype data, minimum length in terms of the number of sites, and the number of samples. 
+ROH-DICE (Runs of homozygous diplotype cluster enumerator) searches for clusters of ROH regions given a genotype panel (in compressed VCF format), minimum length in terms of the number of sites, and the number of samples. 
 
 
 ## Usage:
