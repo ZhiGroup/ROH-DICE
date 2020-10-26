@@ -21,5 +21,7 @@ optional arguments:
   -L, --max_length      Maximize the number of sites in each cluster (by
                         default samples are maximized).
 
+## Citation:
+Discovery of runs-of-homozygosity diplotype clusters and their associations with diseases in UK Biobank. Ardalan Naseri, Degui Zhi, and Shaojie Zhang. BIORXIV/2020/353813
 
 </pre>
