@@ -24,5 +24,5 @@ optional arguments:
 </pre>                        
 
 ## Citation:
-Discovery of runs-of-homozygosity diplotype clusters and their associations with diseases in UK Biobank. Ardalan Naseri, Degui Zhi, and Shaojie Zhang. BIORXIV/2020/353813
+Discovery of runs-of-homozygosity diplotype clusters and their associations with diseases in UK Biobank. Ardalan Naseri, Degui Zhi, and Shaojie Zhang. medRxiv 2020.10.26.20220004; doi: https://doi.org/10.1101/2020.10.26.20220004
 
