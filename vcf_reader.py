@@ -69,7 +69,8 @@ class VCFReader:
             return False
 
         if self.entries_started:
-            eff_split(line, self.inter_vals, '\t')
+            #eff_split(line, self.inter_vals, '\t')
+            self.inter_vals = line.split()
             _pos = self.inter_vals[1]
             alt = self.inter_vals[4]
             if len(alt.split(',')) > 1:
